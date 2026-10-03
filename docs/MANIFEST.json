@@ -1,0 +1,21 @@
+{
+  "project": "Bunique Service & Consultancy",
+  "type": "mobile-first single-page website starter",
+  "status": "GitHub-ready starter package",
+  "animations": [
+    "scroll-reveal",
+    "progress-bar",
+    "counters",
+    "parallax-ready-backgrounds",
+    "floating-elements",
+    "growth-chart",
+    "magnetic-buttons",
+    "card-tilt",
+    "hover-lift",
+    "particle-drift",
+    "gradient-glow",
+    "smooth-scroll",
+    "reduced-motion"
+  ],
+  "assets_note": "Third-party marketplace logos in generated reference sheets are reference-only; replace with official/current assets before public launch."
+}
