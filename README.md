@@ -3,8 +3,8 @@
 ## Folder structure
 
 - `index.html` — main mobile-first single-page homepage
-- `css/style.css` — complete visual system, responsive layout and animations
-- `js/main.js` — scroll reveal, counters, progress bar, magnetic buttons, tilt effects and interaction logic
+- `css/style.css` — responsive visual system, cinematic section transitions and animations
+- `js/main.js` — scroll progress, section-aware glow, staggered reveals, counters, card tilt and mobile navigation
 - `assets/images/` — homepage visual references and Bunique branding
 - `assets/effects/` — transparent PNG overlays used for glow, particles, growth arrows, grid and celebration effects
 - `assets/icons/` — service icon placeholders in a consistent glass/blue/gold style
@@ -29,6 +29,8 @@ Deep navy / electric blue / purple / gold gradient theme, mobile-first, long-scr
 11. Gradient/glass layers
 12. Smooth scrolling
 13. Reduced-motion fallback for accessibility
+14. Scroll-story section glow and heading motion
+15. Mobile navigation toggle
 
 ## Important brand asset note
 
